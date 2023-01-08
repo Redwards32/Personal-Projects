@@ -1,7 +1,7 @@
 Project in C
 
 
-Wanted to experiement with pointers and the use of recursion. Mainly, wanted to test my knowledge of computer orginization and how I was allocating my memory; hence the limited size given.
+Wanted to experiement with pointers and the use of recursion. Mainly, wanted to test my knowledge of computer organization and how I was allocating my memory; hence the limited size given.
 
 1. User inputs a number (call this N)
 1a. This represents an NxN matrix.
