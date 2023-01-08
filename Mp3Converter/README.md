@@ -2,7 +2,7 @@ Project in Python
 
 
 I'm a broke college student who didn't have enough money for Spotify and data (on my phone).
-Didn't want to go through the hassle of going to a third party website (potentially giving away cookies/cata) and converting an MP4 to an MP3,
+Didn't want to go through the hassle of going to a third party website (potentially giving away cookies/data) and converting an MP4 to an MP3,
 so I decided to do it myself.
 
 Video of Program Working
