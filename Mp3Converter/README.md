@@ -5,6 +5,15 @@ I'm a broke college student who didn't have enough money for Spotify and data (o
 Didn't want to go through the hassle of going to a third party website (potentially giving away cookies/data) and converting an MP4 to an MP3,
 so I decided to do it myself.
 
+
+Time It Took
+------------
+2 Days. Started Janurary 2nd, 2023
+Ended Janurary 4th, 2023
+
+
+
+
 Video of Program Working
 ------------------------
 https://www.youtube.com/watch?v=MzOUgr-8BTk
