@@ -1,7 +1,7 @@
 This project was to test my understanding of computer organizations.
 
 This was to understand the basic nuances of assembly.
-Moreover, this project made me realize that memory managmenet is important is basic level programming.
+Moreover, this project made me realize that memory managmenet is important in basic level programming.
 
 Time it took
 ------------
