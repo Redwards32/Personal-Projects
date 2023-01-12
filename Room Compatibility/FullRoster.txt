@@ -1,0 +1,25 @@
+Abhay	F	1-5-1994	0	0	0	0
+Adam	M	2-6-1994	0	0	0	0
+Alan	M	3-7-1994	0	0	0	0
+Alexander	M	4-8-1994	0	0	0	0
+Alexandra	F	5-9-1994	0	0	0	0
+Alfred	M	6-10-1994	0	0	0	0
+Analisa	F	7-11-1994	0	0	0	0
+Andrea	F	8-12-1994	0	0	0	0
+Andrew	M	12-8-1995	0	0	0	0
+Angelina	F	12-8-1995	3	3	3	3
+Antonietta Vicky	F	12-8-1995	5	5	5	5
+Arun Premnath	M	12-8-1995	8	8	8	8
+Chih	F	12-8-1995	10	10	10	10
+Colin	M	1-1-1996	1	2	3	4
+Cynthia	F	2-2-1996	8	7	6	5
+Dalila	F	3-3-1996	9	10	0	1
+Dana Colleen	F	4-4-1996	4	3	2	1
+Daniel	M	5-5-1996	1	2	3	4
+Kristal	F	6-6-1996	1	2	1	2
+Kristin Lunney	F	7-7-1996	4	3	3	4
+Kristina	F	8-8-1996	7	7	6	5
+Kurt	M	9-9-1996	8	8	5	1
+Lauren	F	10-10-1996	4	5	2	3
+Lien T.	F	11-11-1996	5	4	2	2
+Lifen	F	12-12-1996	10	6	5	4
